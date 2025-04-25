@@ -1,0 +1,426 @@
+GET http://localhost:8080/events/88
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-01-30T220318.500.json
+
+###
+
+GET http://localhost:8080/events/1
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-01-30T220310.200.json
+
+###
+
+GET http://localhost:8080/events
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-01-30T215441.200.json
+
+###
+
+GET http://localhost:8080/events
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-01-30T215306.500.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30:00.000Z"
+}
+
+<> 2025-01-30T215259.201.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30:00.000Z"
+}
+
+<> 2025-01-30T214836.500.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30:00.000Z"
+}
+
+<> 2025-01-30T214703.500.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30:00.000Z"
+}
+
+<> 2025-01-30T214420.500.json
+
+###
+
+GET http://localhost:8080/events
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-01-30T214405.200.json
+
+###
+
+GET http://localhost:8080/events
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-01-30T214248.200.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30:00.000Z"
+}
+
+<> 2025-01-30T214239.500.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30:00.000Z"
+}
+
+<> 2025-01-30T214220.500.json
+
+###
+
+GET http://localhost:8080/events
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-01-30T214132.200.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30:00.000Z"
+}
+
+<> 2025-01-30T214058.500.json
+
+###
+
+GET http://localhost:8080/events
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-01-29T222533.200.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30:00.000Z"
+}
+
+<> 2025-01-29T222524.201.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30:00.000Z"
+}
+
+<> 2025-01-29T222443.201.json
+
+###
+
+GET http://localhost:8080/events
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-01-29T222325.200.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30:00.000Z"
+}
+
+<> 2025-01-29T222304.201.json
+
+###
+
+GET http://localhost:8080/events
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-01-29T222254.200.json
+
+###
+
+GET http://localhost:8080/events
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-01-29T222218.200.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30:00.000Z"
+}
+
+<> 2025-01-29T222213.201.json
+
+###
+
+GET http://localhost:8080/events
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-01-29T222158.200.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30:00.000Z"
+}
+
+<> 2025-01-29T221902.201.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30.00.000Z"
+}
+
+<> 2025-01-29T221758.400.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30.00.000Z"
+}
+
+<> 2025-01-29T221746.400.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30.00.000Z"
+}
+
+<> 2025-01-29T221731.400.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01T15:30.00.000Z"
+}
+
+<> 2025-01-29T221714.400.json
+
+###
+
+POST http://localhost:8080/events
+content-type: application/json
+Content-Length: 134
+User-Agent: IntelliJ HTTP Client/GoLand 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "location": "A test location",
+  "dateTime": "2025-01-01t15:30.00.000Z"
+}
+
+<> 2025-01-29T221700.400.json
+
+###
+

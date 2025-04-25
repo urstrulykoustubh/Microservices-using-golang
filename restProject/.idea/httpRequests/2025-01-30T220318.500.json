@@ -1,0 +1,10 @@
+{
+  "message": "sql: no rows in result set"
+}{
+  "ID": 0,
+  "Name": "",
+  "Description": "",
+  "Location": "",
+  "DateTime": "0001-01-01T00:00:00Z",
+  "UserID": 0
+}

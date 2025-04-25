@@ -1,0 +1,11 @@
+{
+  "event": {
+    "ID": 1,
+    "Name": "Test event",
+    "Description": "A test event",
+    "Location": "A test location",
+    "DateTime": "2025-01-01T15:30:00Z",
+    "UserID": 1
+  },
+  "message": "Event created in database"
+}
