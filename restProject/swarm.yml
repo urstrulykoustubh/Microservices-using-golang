@@ -3,7 +3,7 @@ version: '3'
 services:
 
   caddy:
-    image: tsawler/micro-caddy:1.0.0
+    image: ktbond/micro-caddy:1.0.0
     deploy:
       mode: replicated
       replicas: 1
@@ -18,14 +18,14 @@ services:
       - "444:443"
 
   front-end:
-    image: tsawler/front-end:1.0.0
+    image: ktbond/front-end:1.0.0
     deploy:
       mode: replicated
       replicas: 1
 
   # broker-service - main entry point; we call this from the front end
   broker-service:
-    image: tsawler/broker-service:1.0.1
+    image: ktbond/broker-service:1.0.1
     ports:
       - "8080:80"
     deploy:
@@ -34,14 +34,14 @@ services:
 
   # listener-service - watches rabbitmq for messages
   listener-service:
-    image: tsawler/listener-service:1.0.0
+    image: ktbond/listener-service:1.0.0
     deploy:
       mode: replicated
       replicas: 2
 
   # authentication-service - handles user auth
   authentication-service:
-    image: tsawler/authentication-service:1.0.0
+    image: ktbond/authentication-service:1.0.0
     deploy:
       mode: replicated
       replicas: 1
@@ -50,7 +50,7 @@ services:
 
   # logger-service: a service to store logs
   logger-service:
-    image: tsawler/logger-service:1.0.0
+    image: ktbond/logger-service:1.0.0
     ports:
       - "8082:80"
     deploy:
@@ -61,7 +61,7 @@ services:
 
   # mail-service - handles sending mail
   mail-service:
-    image: tsawler/mail-service:1.0.0
+    image: ktbond/mail-service:1.0.0
     deploy:
       mode: replicated
       replicas: 1

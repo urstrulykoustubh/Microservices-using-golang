@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/ktbond/go-rabbit/lib/event"
 	amqp "github.com/rabbitmq/amqp091-go"
-	"github.com/tsawler/go-rabbit/lib/event"
 	"log"
 	"math"
 	"os"

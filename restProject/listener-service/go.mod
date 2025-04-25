@@ -1,4 +1,4 @@
-module github.com/tsawler/go-rabbit
+module github.com/ktbond/go-rabbit
 
 go 1.18
 

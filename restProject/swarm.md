@@ -3,8 +3,8 @@
 
 ## Build images:
 ```bash
-docker build -f front-end.dockerfile -t tsawler/front-end:tag1 .
-docker push tsawler/front-end:tag1
+docker build -f front-end.dockerfile -t ktbond/front-end:tag1 .
+docker push ktbond/front-end:tag1
 ```
 
 ## Manage
@@ -21,7 +21,7 @@ docker service scale <name>=<instances>
 
 ## Updating (pull image and scale first)
 ```bash
-docker service update --image tsawler/listener:1.0.1 myapp_listener-service
+docker service update --image ktbond/listener:1.0.1 myapp_listener-service
 ```
 
 ## Bringing swarm down
